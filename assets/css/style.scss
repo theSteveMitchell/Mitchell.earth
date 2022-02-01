@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+.page-header {
+  background-image: url('{{ page.baseurl }}/assets/images/header_flowers.webp');
+  background-size: cover;
+  background-position: bottom;
+}
+
+.project-tagline {
+  opacity: 0.9;
+}
