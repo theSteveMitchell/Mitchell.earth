@@ -1,4 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: default
+title: Mitchell.Earth
 ---
+
+# Hi, I'm Steve
+
+I'm a technologist. Mostly, I'm a software engineer, engineering manager/leader, and photographer. I'm based in Columbus, Ohio. 
+
